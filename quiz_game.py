@@ -39,3 +39,18 @@ else:
 print("You got " +str(score) + " question correct!")
 print("You got " +str((score / 4) * 100) + "%.")
 
+## OUTPUT
+
+# Welcome to my computer quiz!!
+# Do you want to play? Yes
+# Okay! Let's play :
+# What does CPU stand for?Central Processing Unit
+# correct!
+# What does GPU stand for? graphics processing unit
+# correct!
+# What does RAM stand for? Random access memory
+# correct!
+# What does PSU stand for? poert summply
+# Incorrect!
+# You got 3 question correct!
+# You got 75.0%.
